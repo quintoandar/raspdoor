@@ -1,5 +1,5 @@
 #Usage:
 
-```python server.py````
+```python server.py```
 
 ## The server will be available at localhost:5000
